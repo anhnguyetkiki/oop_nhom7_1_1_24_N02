@@ -1,7 +1,4 @@
 
-
 Trong Assignment Is Tricky, Part I, mã chỉ gán giá trị cho các trường nguyên thủy (i), vì vậy các thay đổi đối với n2.i sau khi sao chép không ảnh hưởng đến n1.i.
 Trong Assignment Is Tricky, Part II, tham chiếu n1 được chỉ đến cùng một đối tượng với n2. Vì vậy, các thay đổi thông qua bất kỳ tham chiếu nào cũng ảnh hưởng đến cùng một đối tượng.
-Truyền đối tượng vào phương thức:
-
 Trong "Aliasing" In Function Calls, việc truyền đối tượng vào phương thức dẫn đến việc thay đổi đối tượng ban đầu bên ngoài phương thức, vì phương thức làm việc với tham chiếu đến cùng một đối tượng.
