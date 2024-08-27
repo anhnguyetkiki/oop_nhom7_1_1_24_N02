@@ -1,3 +1,4 @@
+package control;
 public class else_if {
     public static void main(String[] args) {
         int time = 22;

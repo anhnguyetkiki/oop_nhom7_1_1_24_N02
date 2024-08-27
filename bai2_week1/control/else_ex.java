@@ -1,3 +1,4 @@
+package control;
 public class else_ex {
     public static void main(String[] args) {
         int time = 20;
