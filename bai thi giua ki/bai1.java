@@ -1,7 +1,7 @@
 // Định nghĩa giao diện Signal
 interface Signal {
     void generateSignal();
-}
+}e
 
 // Lớp DiscreteSignal kế thừa từ giao diện Signal
 class DiscreteSignal implements Signal {
