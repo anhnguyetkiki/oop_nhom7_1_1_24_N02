@@ -15,3 +15,5 @@ Các thành viên tham gia xây dựng phần mềm :
 - Hiển thị thông tin sinh viên và thông tin điểm số 
 3. Yêu cầu
 - Java Runtime Enviroment ( JRE ) đã được cài đặt .
+- ![Uploading image.png…]()
+
