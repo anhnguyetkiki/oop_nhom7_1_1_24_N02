@@ -25,3 +25,6 @@ Các thành viên tham gia xây dựng phần mềm :
 ### Lưu đồ thuật toán - Quản lý thông tin sinh viên
 ![Lưu đồ thuật toán - Quản lý thông tin sinh viên](https://github.com/anhnguyetkiki/OOP_nhom7_1_1_24_N02/blob/1051aeb7441094221e6945cf4a58c1955557785c/Untitled.png)
 
+### Giao diện đầu tiên của dự án 
+![Giao diện đầu tiên của dự án](https://github.com/anhnguyetkiki/OOP_nhom7_1_1_24_N02/blob/f0ceec63d1738a5481e48060855b8dd9f2c25856/Giao%20%C4%91i%E1%BB%87n%20%C4%91%E1%BA%A7u%20ti%C3%AAn%20c%E1%BB%A7a%20d%E1%BB%B1%20%C3%A1n.jpg)
+
